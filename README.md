@@ -25,6 +25,7 @@ You are in a secret military testing facility in the arctic. Utter chaos and dis
 4. Total Zombies and Killed Zombies count display on screen
 
 # Screenshots
+![Snap 1](screenShots/snap1.png)
 
 # Setup
 Just add all the files to your project source folder and add the res folder to the build path to integrate with the project.
