@@ -17,6 +17,7 @@ You are in a secret military testing facility in the arctic. Utter chaos and dis
 6. camera that follows the player
 7. regenerate ammo by picking up boxes or crates
 8. HUD display
+9. If zombie touches player, player health decreases
 
 ## My Personal touches
 1. Game Over Screen when player health becomes zero
@@ -26,6 +27,10 @@ You are in a secret military testing facility in the arctic. Utter chaos and dis
 
 # Screenshots
 ![Snap 1](screenShots/snap1.png)
+
+![Snap 2](screenShots/snap2.png)
+
+![Snap 3](screenShots/snap3.png)
 
 # Setup
 Just add all the files to your project source folder and add the res folder to the build path to integrate with the project.
